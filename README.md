@@ -12,7 +12,11 @@ You can then use the main functions (all starting with ds_) to create different 
 Here is a short description of the included functions:
 
 ds_checkEpileptiformEvents - Test the LFP data for the occurence of epileptiform events and plot their rate and duration
+
 ds_checkOscillatoryPower - Show results for analysis of LFP data as shown in Fig. 7 of the manuscript
+
 ds_showTactileResponse - Show current source density analysis in S1 recordings in response to tactile stimulation
+
 ds_sensoryStimulation - Show results of spiking analysis in response to tactile stimulation
+
 ds_somStimulation - show neural response to optogenetic stimulation of SOM neurons in S1 and V1
