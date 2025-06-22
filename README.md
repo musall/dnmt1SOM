@@ -3,11 +3,12 @@ This repo contains a Matlab-based code collection for  analysis of electrophysio
 DNMT1-Mediated Regulation of Inhibitory Interneuron Migration Impacts Cortical Architecture and function
 https://doi.org/10.1101/2024.09.04.611268
 
-The data for the analysis can be found [here](https://doi.org/10.6084/m9.figshare.28282838.v2)
+The data for the analysis can be found here: https://doi.org/10.6084/m9.figshare.28282838.v2
+
 The dataset contains Neuropixels recordings from 4 mice that are either SOM-Cre or SOM-DNMT1-KO animals. Each recording contains pre-processed LFP and spiking data that was used to create the electrophysiological results of the study.
 
 To get to the results in the paper, download the dataset with the data in the folder 'Ephys_Data'.
-You can then use the main functions (all starting with ds_) to create different figures. For the code to work the variable 'opts.localPath' needs to be changed to the download Ephys_data folder.
+You can then use the main functions (all starting with ds_) to create different figures. For the code to work, the variable 'opts.localPath' needs to be changed to the download Ephys_data folder.
 
 Here is a short description of the included functions:
 
