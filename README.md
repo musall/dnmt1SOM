@@ -20,4 +20,4 @@ ds_showTactileResponse - Show current source density analysis in S1 recordings i
 
 ds_sensoryStimulation - Show results of spiking analysis in response to tactile stimulation
 
-ds_somStimulation - show neural response to optogenetic stimulation of SOM neurons in S1 and V1
+ds_somStimulation - Show neural response to optogenetic stimulation of SOM neurons in S1 and V1
